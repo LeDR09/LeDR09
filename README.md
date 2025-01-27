@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **Home automation project**<br><br>- 🌱 I’m currently learning **React Tailwind**<br><br>- 💬 Ask me about **C Html Css**
+- 🔭 I’m currently working on **Home automation project**<br><br>- 🌱 I’m currently learning **React Tailwind**<br><br>- 💬 Ask me about **C HTML CSS JS**
 
 
 # 💻 Tech Stack:
